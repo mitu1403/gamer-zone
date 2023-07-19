@@ -26,6 +26,7 @@
   text-transform: uppercase;
   border: none;
   margin: 20px 0;
+  cursor: pointer;
 }
 .btn-secondary {
   background: #4ec5f7;
@@ -87,6 +88,7 @@ nav ul {
 }
 nav li {
   list-style: none;
+  cursor: pointer;
 }
 nav li a {
   color: var(--dark3);
@@ -246,6 +248,7 @@ nav li:last-child span {
   gap: 10px;
   border-radius: 50px;
   border: 1px solid transparent;
+  cursor: pointer;
 }
 .btns:hover{
   border: 1px solid #f948b2;
@@ -261,6 +264,7 @@ footer div {
   color: #fff;
   font-size: 45px;
   font-weight: 700;
+  cursor: pointer;
 }
 footer span{
   color: #f948b2;
